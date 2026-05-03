@@ -20,7 +20,7 @@ Supports:
 Once published to Hex, add to `rebar.config`:
 
 ```erlang
-{deps, [{personnummer, "3.1.0"}]}.
+{deps, [{personnummer_erl, "3.1.0"}]}.
 ```
 
 Until then, depend on the GitHub source:

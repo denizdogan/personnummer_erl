@@ -1,4 +1,4 @@
-{application, personnummer, [
+{application, personnummer_erl, [
     {description, "Validate Swedish personal identity numbers (personnummer)"},
     {vsn, "3.1.0"},
     {registered, []},
