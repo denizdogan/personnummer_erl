@@ -7,8 +7,8 @@
     {modules, []},
     {licenses, ["MIT"]},
     {links, [
-        {"GitHub", "https://github.com/denizdogan/erlang-personnummer"},
-        {"Changelog", "https://github.com/denizdogan/erlang-personnummer/blob/main/CHANGELOG.md"},
+        {"GitHub", "https://github.com/denizdogan/personnummer_erl"},
+        {"Changelog", "https://github.com/denizdogan/personnummer_erl/blob/main/CHANGELOG.md"},
         {"Specification", "https://github.com/personnummer/meta"}
     ]}
 ]}.

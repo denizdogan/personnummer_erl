@@ -12,4 +12,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial implementation of the
   [personnummer specification v3.1](https://github.com/personnummer/meta).
 
-[Unreleased]: https://github.com/denizdogan/erlang-personnummer/commits/main
+[Unreleased]: https://github.com/denizdogan/personnummer_erl/commits/main
