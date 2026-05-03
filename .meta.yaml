@@ -1,0 +1,4 @@
+name: "Erlang"
+maintainer: "@denizdogan"
+spec: 3.1
+workflow: "erlang.yml"
