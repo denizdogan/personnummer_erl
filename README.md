@@ -17,20 +17,10 @@ Supports:
 
 ## Installation
 
-Once published to Hex, add to `rebar.config`:
+Add to `rebar.config`:
 
 ```erlang
 {deps, [{personnummer_erl, "3.1.0"}]}.
-```
-
-Until then, depend on the GitHub source:
-
-```erlang
-{deps, [
-    {personnummer_erl,
-        {git, "https://github.com/denizdogan/personnummer_erl.git",
-            {branch, "main"}}}
-]}.
 ```
 
 Requires Erlang/OTP 27 or newer.
